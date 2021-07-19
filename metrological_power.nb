@@ -186,7 +186,7 @@ Cell[BoxData[{
 Cell[CellGroupData[{
 
 Cell["\<\
-Probe states (with depency on the difference of phase shifts)\
+Probe states (with dependency on the difference of phase shifts)\
 \>", "Subsection",
  CellChangeTimes->{{3.817231011361639*^9, 3.817231019632612*^9}, {
    3.817231539732112*^9, 3.8172318130827694`*^9}, {3.817232041435583*^9, 
