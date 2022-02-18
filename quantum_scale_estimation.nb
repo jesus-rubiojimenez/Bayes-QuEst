@@ -123,7 +123,7 @@ u4D0B4PlYFr8eLiKwJQ3jum1X1VBNACuKqZ7
 
 Cell[CellGroupData[{
 
-Cell["Free parameters", "Subsection",
+Cell["Known parameters", "Subsection",
  CellChangeTimes->{{3.817231011361639*^9, 3.817231019632612*^9}, {
   3.817231539732112*^9, 3.8172318130827694`*^9}, {3.817232041435583*^9, 
   3.8172320624640307`*^9}, {3.817232235182582*^9, 3.8172322675294228`*^9}, {
