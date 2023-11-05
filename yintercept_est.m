@@ -2,7 +2,7 @@ function [estimate,error] = yinterceptEst(y)
 %% Estimation of the y-axis intercept: y=n
 %
 % Input: y
-%   -> Note that x is not needed for this (trivial) estimation problem. 
+%   -> Note that x is not needed for this estimation problem. 
 %
 % Output:
 %   - n-estimate (posterior mean)
@@ -13,7 +13,7 @@ function [estimate,error] = yinterceptEst(y)
 %   - Information about errors restricted to that captured by independent Gaussian densities
 %   - Mean square error criterion
 %
-% Dr Jesús Rubio
+% Dr JesÃºs Rubio
 % University of Exeter
 % J.Rubio-Jimenez@exeter.ac.uk
 %
