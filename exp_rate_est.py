@@ -19,7 +19,7 @@
 # University of Exeter
 # J.Rubio-Jimenez@exeter.ac.uk
 #
-# Created: Jan 2022
+# Created: January 2022
 # Last update: --
 
 import numpy as np
