@@ -1,1 +1,1 @@
-This is a collection of scripts intending to cover a wide range of problems in (quantum) parameter estimation à la Bayes. Some of them implement or support calculations published elsewhere. The list continues to grow with time. 
+This is a collection of scripts covering a range of problems in (quantum) parameter estimation à la Bayes. A few of these implement or support calculations published elsewhere; see the references therein. The list will grow with time. 
