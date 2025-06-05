@@ -1,4 +1,4 @@
-# Estimation of the rate k in the exponential probability density k*exp(-k*t)
+# Scale estimation: Poisson rates 
 #
 # Input: 
 #   - time: array of measured times
@@ -11,16 +11,16 @@
 #   - Jeffreys's prior for scale parameters over an arbitrarily large positive interval
 #   - Error constructed via the mean logarithmic error
 #
-#   See details in:
-#       J. Rubio, Quantum Scale Estimation, arXiv:2111.11921 (2021)
-#       J. Rubio et al., Global Quantum Thermometry, Phys. Rev. Lett. 127, 190402 (2021) - arXiv:2011.13018
+# See details in:
+#       J. Boeyens et al., On the role of symmetry and geometry in global quantum sensing, arXiv:2502.14817 (2025)
+#       J. Rubio, Quantum scale estimation, Quantum Sci. Technol. 8, 015009 (2023); arXiv:2111.11921 
 #
 # Dr Jesús Rubio
 # University of Exeter
 # J.Rubio-Jimenez@exeter.ac.uk
 #
 # Created: January 2022
-# Last update: --
+# Last update: June 2025
 
 import numpy as np
 from scipy import special
