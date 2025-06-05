@@ -16,8 +16,7 @@
 #       J. Rubio, Quantum scale estimation, Quantum Sci. Technol. 8, 015009 (2023); arXiv:2111.11921 
 #
 # Dr Jesús Rubio
-# University of Exeter
-# J.Rubio-Jimenez@exeter.ac.uk
+# jesus@rubiojimenez.com
 #
 # Created: January 2022
 # Last update: June 2025
